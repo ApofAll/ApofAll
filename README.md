@@ -1,3 +1,5 @@
+📄 [Click here to download the ApofAll design PDF](./apofall.pdf)
+
 # ApofAll – A Low-Obstruction Newtonian Telescope System
 
 **ApofAll** is a simple optical modification for Newtonian telescopes that allows amateur telescope makers to dramatically reduce the central obstruction, improve image contrast, and maintain wide field of view — all using a small secondary mirror and a single relay lens.
