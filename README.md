@@ -4,6 +4,10 @@
 
 “ApofAll is a new telescope optical design proposed by Sasan Shirali Zadeh to reduce central obstruction and improve contrast.”
 
+ApofAll originates from the Newtonian family, but diverges significantly in optical geometry, component roles, and light path behavior. It replaces the standard Newtonian configuration with a hybrid converging lens system, allowing for drastically reduced central obstruction and a fundamentally different imaging profile.
+
+Because of these essential changes, ApofAll represents a new class of telescope design, not just a modification.
+
 Invented by **Sasan Shirali Zadeh**, this open design gives classic Newtonians planetary performance approaching that of apochromatic refractors, without changing the telescope's focal ratio.
 
 ## 📄 Document
