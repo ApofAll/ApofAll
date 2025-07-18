@@ -1,88 +1,98 @@
+ApofAll Clarification
+
 Is ApofAll a Newtonian?
 
 No — it’s a new class of telescope.
 
-Many may assume ApofAll is simply a variation of a Newtonian reflector — perhaps just a Newtonian with a convex lens added near the focus. But this is not the case.
+Many might assume ApofAll is simply a variation of a Newtonian — perhaps a Newtonian with a convex lens added near the focus.
+But that’s not the case.
 
 
+---
 
-ApofAll is not a Newtonian. It is a new class of optical configuration with the following fundamental differences:
+🔸 Fundamental Differences
 
 1. Diverging Geometry After the Secondary
 
-In a Newtonian, light from the secondary travels directly to the focal point at the focuser. In ApofAll, the light is intentionally diverging after the secondary mirror, and will not reach focus without a carefully placed positive lens.
-
-
+In a Newtonian, light from the secondary mirror travels directly to the focal point at the focuser.
+In ApofAll, the light diverges after the secondary and requires a carefully placed positive lens to reach focus.
 
 This makes the lens essential, not optional — unlike a Barlow or coma corrector.
 
-2. The Secondary Mirror Can Be Radically Smaller
 
-Since the light cone doesn’t need to reach full width before the lens, the secondary can be extremely small — even 5 mm — without vignetting.
+---
 
+2. A Radically Smaller Secondary Mirror
 
+Because the light cone doesn’t need to expand fully before the lens, the secondary mirror can be extremely small — even 5 mm — without causing vignetting.
 
-This dramatically reduces central obstruction, increasing contrast and sharpness. In a Newtonian, this would be impossible.
-
-3. It Preserves Focal Ratio and Field of View
-
-Unlike optical systems that slow down the telescope (e.g., Barlows or relay lenses), ApofAll preserves the native focal ratio of the primary mirror.
+This dramatically reduces central obstruction, boosting contrast and sharpness.
+In a Newtonian, this is simply not possible.
 
 
+---
 
-A 150/750 telescope remains fast and wide-field — even with the added lens. That means it retains both its deep-sky and planetary capabilities.
+3. Focal Ratio and Field of View Are Preserved
 
-4. It Is Not a Jones-Bird, Not a Catadioptric, and Not a Coma-Corrected Newtonian
+Unlike systems that slow down the telescope (e.g., Barlows or relay optics), ApofAll retains the native focal ratio of the primary.
 
-The goal is not shortening, not spherical correction, and not coma fixing.
+A 150/750 telescope stays fast and wide-field — ideal for both DSO and planetary observing.
 
 
+---
+
+4. Not a Jones-Bird, Not a Catadioptric, Not a Corrected Newtonian
+
+The goal isn’t to shorten the tube, correct spherical aberration, or fix coma.
 
 ApofAll is designed to:
 
-- Reduce central obstruction
+Reduce central obstruction
 
-- Keep the telescope fast and compact
+Keep the system fast and lightweight
 
-- Add only minimal chromatic error
+Add minimal chromatic aberration
 
-- Improve contrast and brightness, especially in small reflectors
-
-So:
-
-ApofAll is a hybrid optical system, not a Newtonian with accessories.
-
-It belongs in the family of:
-
-- New optical classes, like Maksutov-Newtonians or Schmidt-Newtonians
-
-But with a simpler structure and a novel light path.
+Boost contrast and brightness — especially in small reflectors
 
 
 
-Its closest relatives may not exist — because it creates a new branch in the design tree.
+---
+
+🚀 A New Optical Branch
+
+ApofAll is a hybrid optical system — not a Newtonian with accessories.
+It belongs to the family of innovations like Maksutov-Newtonians or Schmidt-Newtonians —
+but with a simpler, unique light path.
+
+Its closest relatives may not exist — it may start an entirely new design branch.
+
+
+---
+
+✨ ApofAll Is NOT:
+
+A curved secondary system
+
+A catadioptric
+
+An off-axis or asymmetric telescope
+
+A $17,500 observatory-class relic
+
+Or an idea from 200-year-old books
 
 
 
-ApofAll:
+---
 
-- Has no curved secondary mirror
+It is a fast, compact, low-obstruction system — designed for affordable, high-contrast deep-sky and planetary viewing.
 
-- Is not catadioptric
-
-- Is not off-axis or asymmetric
-
-- Is not a $17,500 observatory telescope
-
-- And is not from ancient books
+A telescope for everyone, not just specialists.
 
 
-
-It is a new, fast, compact, low-obstruction telescope for modern, affordable use — optimized for deep sky and high-contrast viewing.
-
-Its goal is mass accessibility, not complexity.
-
+---
 
 With respect,
 Sasan Shirali Zadeh
-tanjim.iran@gmail.com
+📧 tanjim.iran@gmail.com
